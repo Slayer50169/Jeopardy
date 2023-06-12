@@ -1,0 +1,58 @@
+/* some colors you may find useful:
+  #115ff4 light blue
+  #060ce9 darker blue
+  #28a200 green
+  #8d2ab5 purple
+  #74119c
+*/
+
+*{
+  font-family: "Copse";
+  text-align: center;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+h1{
+  color: white;
+  font-weight: 900;
+}
+
+
+tr{
+  color: white;
+  display: inline;
+}
+
+tfoot{
+  color:red;
+  font-size: 32px;
+}
+
+tbody{
+  font-size: 24px;
+  border-spacing: 0px;
+}
+
+table{
+  border-spacing: 100px;
+  border-collapse: separate;
+}
+
+#jeopardy{
+  background-color: #060ce9;
+  width: 80%;
+  text-shadow: 5px 2px black;
+  border: 10px solid white;
+}
+
+#start{
+  background-color:orange;
+}
